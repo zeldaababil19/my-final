@@ -3,7 +3,7 @@ import {
   theme as defaultTheme,
   withDefaultColorScheme,
 } from '@chakra-ui/react';
-import {brandh, ya theme} from './colord'
+import { brand, dark } from './colors';
 
 const Input = {
   defaultProps: {
